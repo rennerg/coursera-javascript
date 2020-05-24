@@ -1,0 +1,23 @@
+#nav-list {
+    text-align: center;
+}
+
+#chicken-section {
+    width: 100%;
+    height: 1000px;
+    background-color: lightblue;
+}
+
+#menu-categories-title {
+    font-weight: bold;
+}
+
+.subject {
+    align-content: center;
+    margin: 25px 10px 25px 10px;
+    overflow: hidden;
+}
+
+.subject h3 {
+    font-weight: bold;
+}
