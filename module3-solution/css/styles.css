@@ -1,0 +1,40 @@
+/********** Base styles **********/
+* {
+    box-sizing: border-box;
+    font-family: Helvetica ;
+    margin: 0;
+    padding: 0;
+  }
+
+#nav-list {
+    text-align: center;
+}
+
+#main-content {
+    width: 100%;
+    margin: 20px;
+}
+
+#menu-categories-title {
+    font-weight: bold;
+}
+
+article {
+    float: left;
+}
+
+article > div {
+    height: 1000px;
+    margin: 10px; 
+    background-color: lightblue;
+    overflow: hidden;
+  }
+
+p {
+    padding: 10px;
+    margin: 10px;
+}
+
+.subject h3 {
+    font-weight: bold;
+}
